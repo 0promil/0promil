@@ -31,7 +31,7 @@ Sistemler, ağ yapıları, güvenlik testleri ve yazılım projeleri üzerinde �
 
 -  Siber Güvenlik & Penetrasyon Testi  
 -  Sistem ve Ağ Mimarisi  
--  Yapay Zeka & Otomasyon  
+-  IoT Otomasyon Sistemleri 
 -  Linux Sistemleri  
 -  Gömülü Sistemler & Donanım  
 
