@@ -5,7 +5,7 @@
 <h1 align="center">Merhaba Ben Barış Durmuş (0promil)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Cybersecurity+Engineer;Software+Developer;AI+%26+Systems+Builder;Linux+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Cybersecurity+Engineer;IoT+Security;Embedded+Systems+Developer;Network+Security;Linux+Enthusiast" />
 </p>
 
 <p align="center">
