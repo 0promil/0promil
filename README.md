@@ -20,20 +20,20 @@
 
 ---
 
-## 🧠 Hakkımda
+## Hakkımda
 Bilgi işlem, güvenlik ve yazılım geliştirme alanlarında aktif çalışıyorum.  
 Araştırmayı, öğrenmeyi ve gerçek dünya problemlerini çözmeyi seviyorum.  
 Sistemler, ağ yapıları, güvenlik testleri ve yazılım projeleri üzerinde çalışıyorum.
 
 ---
 
-## 🧠 Uzmanlık Alanlarım
+## Uzmanlık Alanlarım
 
-- 🔐 Siber Güvenlik & Penetrasyon Testi  
-- 🖥 Sistem ve Ağ Mimarisi  
-- 🤖 Yapay Zeka & Otomasyon  
-- 🐧 Linux Sistemleri  
-- 🧩 Gömülü Sistemler & Donanım  
+-  Siber Güvenlik & Penetrasyon Testi  
+-  Sistem ve Ağ Mimarisi  
+-  Yapay Zeka & Otomasyon  
+-  Linux Sistemleri  
+-  Gömülü Sistemler & Donanım  
 
 ---
 
