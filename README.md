@@ -52,28 +52,6 @@ Sistemler, ağ yapıları, güvenlik testleri ve yazılım projeleri üzerinde �
 
 ---
 
-## GitHub İstatistikler
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0promil&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0promil&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## Katkı Serisi
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0promil&theme=tokyonight" />
-</p>
-
----
-
-## GitHub Başarıları
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0promil&theme=matrix&no-frame=true&margin-w=10" />
-</p>
-
----
-
 <p align="center">
  "Security is not a product, it's a process."
 </p>
